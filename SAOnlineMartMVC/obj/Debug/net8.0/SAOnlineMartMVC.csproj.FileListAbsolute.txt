@@ -1,0 +1,86 @@
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\SAOnlineMartMVC.staticwebassets.runtime.json
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\SAOnlineMartMVC.exe
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\SAOnlineMartMVC.deps.json
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\SAOnlineMartMVC.runtimeconfig.json
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\SAOnlineMartMVC.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\SAOnlineMartMVC.pdb
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.AssemblyInfoInputs.cache
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.AssemblyInfo.cs
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.csproj.CoreCompileInputs.cache
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.RazorAssemblyInfo.cache
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.RazorAssemblyInfo.cs
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\staticwebassets\msbuild.SAOnlineMartMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.SAOnlineMartMVC.props
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SAOnlineMartMVC.props
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SAOnlineMartMVC.props
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\scopedcss\bundle\SAOnlineMartMVC.styles.css
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\refint\SAOnlineMartMVC.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.pdb
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.genruntimeconfig.cache
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\ref\SAOnlineMartMVC.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.csproj.AssemblyReference.cache
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnline.24E20D59.Up2Date
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Aqua.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Aqua.Newtonsoft.Json.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Remote.Linq.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Remote.Linq.Newtonsoft.Json.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\SAOnlineMartMVC.staticwebassets.runtime.json
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\SAOnlineMartMVC.exe
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\SAOnlineMartMVC.deps.json
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\SAOnlineMartMVC.runtimeconfig.json
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\SAOnlineMartMVC.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\SAOnlineMartMVC.pdb
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Aqua.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Aqua.Newtonsoft.Json.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Remote.Linq.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\Remote.Linq.Newtonsoft.Json.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.csproj.AssemblyReference.cache
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.AssemblyInfoInputs.cache
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.AssemblyInfo.cs
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.csproj.CoreCompileInputs.cache
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.RazorAssemblyInfo.cache
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.RazorAssemblyInfo.cs
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\staticwebassets\msbuild.SAOnlineMartMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.SAOnlineMartMVC.props
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SAOnlineMartMVC.props
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SAOnlineMartMVC.props
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\scopedcss\bundle\SAOnlineMartMVC.styles.css
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnline.24E20D59.Up2Date
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\refint\SAOnlineMartMVC.dll
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.pdb
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\SAOnlineMartMVC.genruntimeconfig.cache
+C:\Users\mombe\OneDrive\Desktop\ITEHA Taak\SAOnlineMart (2)\SAOnlineMart\SAOnlineMartMVC\obj\Debug\net8.0\ref\SAOnlineMartMVC.dll

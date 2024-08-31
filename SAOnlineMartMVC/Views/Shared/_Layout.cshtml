@@ -1,0 +1,47 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - SA Online Mart</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <header class="bg-dark text-white py-2">
+
+        <div class="container d-flex justify-content-between align-items-center">
+            <h1 class="h4 mb-0"><a href="/" class="text-white text-decoration-none">SA Online Mart</a></h1>
+            <div>
+                @{
+                    var isAuthenticated = Context.Session.GetString("JWToken") != null;
+                }
+
+                @if (isAuthenticated)
+                {
+                    <a asp-controller="Cart" asp-action="Index" class="btn btn-outline-light">Cart</a>
+                    <a asp-controller="Account" asp-action="Logout" class="btn btn-outline-light">Logout</a>
+                }
+                else
+                {
+                    <a asp-controller="Account" asp-action="Login" class="btn btn-outline-light">Login</a>
+                }
+            </div>
+        </div>
+    </header>
+
+    <div class="container mt-4">
+        @RenderBody() <!-- This is where the content of child views will be rendered -->
+    </div>
+
+    <footer class="bg-dark text-white text-center py-3 mt-4">
+        <div class="container">
+            <p class="mb-0">© 2024 SA Online Mart</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

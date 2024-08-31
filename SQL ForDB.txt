@@ -1,0 +1,48 @@
+CREATE DATABASE SAOnlineMart;
+GO
+
+USE SAOnlineMart;
+GO
+
+CREATE TABLE Users (
+    Id INT PRIMARY KEY IDENTITY,
+    Name NVARCHAR(100) NOT NULL,
+    Email NVARCHAR(100) NOT NULL UNIQUE,
+    PasswordHash NVARCHAR(255) NOT NULL,
+    Role NVARCHAR(50) DEFAULT 'User'
+);
+GO
+
+CREATE TABLE Products (
+    Id INT PRIMARY KEY IDENTITY,
+    Name NVARCHAR(100) NOT NULL,
+    Description NVARCHAR(MAX),
+    Price DECIMAL(18, 2) NOT NULL,
+    Image VARBINARY(MAX) -- Use VARBINARY(MAX) to store images
+);
+GO
+
+CREATE TABLE ShoppingCart (
+    Id INT PRIMARY KEY IDENTITY,
+    UserId INT NOT NULL,
+    ProductId INT NOT NULL,
+    Quantity INT NOT NULL,
+    Price DECIMAL(18, 2) NOT NULL,
+    CreatedDate DATETIME DEFAULT GETDATE(),
+    FOREIGN KEY (UserId) REFERENCES Users(Id),
+    FOREIGN KEY (ProductId) REFERENCES Products(Id)
+);
+GO
+
+CREATE TABLE Orders (
+    Id INT PRIMARY KEY IDENTITY,
+    UserId INT NOT NULL,
+    ProductId INT NOT NULL,
+    Quantity INT NOT NULL,
+    Price DECIMAL(18, 2) NOT NULL,
+    OrderDate DATETIME DEFAULT GETDATE(),
+    FOREIGN KEY (UserId) REFERENCES Users(Id)
+    FOREIGN KEY (ProductId) REFERENCES Products(Id)
+);
+GO
+

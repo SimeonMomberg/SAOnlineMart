@@ -1,0 +1,18 @@
+INSERT INTO Users (Name, Email, PasswordHash, Role)
+VALUES 
+('User', 'User@User.com', '$2a$11$MyGpqJPsW6.RgEonNdlWtursR12ksrpw.N9oLAq1K4j7uXFeXrGYq', 'User'),
+('Admin', 'Admin@Admin.com', '$2a$11$b3hwPGvzh2XNv8VUXWZDMez56DnzOaTJ1MwORHsFIX65/gTRNYsJ6', 'Admin');
+GO
+
+
+INSERT INTO Products (Name, Description, Price, Image)
+VALUES 
+('Necklaces', 'Gold Necklaces', 1999.99, NULL),
+('Sandals', 'Sandals', 299.99, NULL),
+('Bucket Hat', 'Bucket Hat', 39.99, NULL);
+GO
+
+
+
+
+
